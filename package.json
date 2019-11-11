@@ -1,0 +1,26 @@
+{
+  "name": "gitonion",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robogaming/GitOnion.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Sam Knight (Robogaming)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robogaming/GitOnion/issues"
+  },
+  "homepage": "https://github.com/robogaming/GitOnion#readme",
+  "devDependencies": {
+    "electron": "^7.1.1"
+  }
+}
